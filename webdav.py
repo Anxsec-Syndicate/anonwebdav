@@ -1,3 +1,5 @@
+#gausah recode tolol
+#tinggal pake apa susah nya goblok
 #-*- coding: utf-8 -*-
 
 try:
